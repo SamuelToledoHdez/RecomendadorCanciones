@@ -1,0 +1,13 @@
+# Ignorar la carpeta .vs
+.vs/
+# Ignorar la carpeta bin y obj
+bin/
+obj/
+# Ignorar archivos de configuración de usuario
+*.user
+*.suo
+*.sln.docstates
+# Ignorar otros archivos innecesarios
+*.vscode/
+*.DS_Store
+*.log
